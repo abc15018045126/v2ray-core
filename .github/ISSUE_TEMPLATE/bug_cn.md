@@ -59,3 +59,43 @@ about: "提交一个 V2Ray 的程序问题报告。"
 通常的命令为 `journalctl -u v2ray`。
 
 请预览一下你填的内容再提交。
+
+
+https://baidu.com;
+https://bilibili.com;
+https://douyin.com;
+https://iqiyi.com;
+https://youku.com;
+https://qq.com;
+https://qidian.com;
+https://kuaikanmanhua.com;
+https://cctv.com;
+https://39.103.190.117;
+https://wps.com;
+https://csdn.net;
+https://163.com;
+https://kugou.com;
+https://bdimg.com;
+https://3dmgame.com;
+remove the ;
+
+
+
+baidu.com;
+bilibili.com;
+douyin.com;
+iqiyi.com;
+youku.com;
+qq.com;
+qidian.com;
+kuaikanmanhua.com;
+cctv.com;
+39.103.190.117;
+wps.com;
+csdn.net;
+163.com;
+kugou.com;
+bdimg.com;
+3dmgame.com;
+gov.cn
+Please add https:// in front of each line and remove it;
